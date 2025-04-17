@@ -7,7 +7,7 @@
 
 This project presents an interactive Tableau dashboard to analyze road accident data in the UK. The dashboard enables users to gain insights into the number and severity of road accidents, casualty trends, and the contributing factors such as road surface, weather conditions, and vehicle types.
 
-Explore the published dashboard here 👉 [Tableau Public View](https://public.tableau.com/app/profile/shreyas.shetty.kr/viz/RoadAccidentAnalysis_16942749715010/Dashboard1?publish=yes)
+Explore the published dashboard here 👉 [Tableau Public View]()
 
 ## Features
 - 📊 **Total Metrics**: Accidents, Casualties, Fatal/Serious/Slight injury counts with YoY comparison
